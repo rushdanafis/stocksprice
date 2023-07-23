@@ -1,0 +1,45 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+
+body {
+    background-image: url("https://img.freepik.com/free-photo/solid-concrete-wall-textured-background_53876-101632.jpg?w=2000&t=st=1690136227~exp=1690136827~hmac=ee7fd793624c884e9a9bec9d49103c306b4aaaa904153da8230c637e822393ba");
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+    background-size: cover;
+    min-height: 100vh;
+  }
+  div.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left:15%;
+    margin-right: 15%;
+    margin-top: 15%;
+    font-family: "Poppins", sans-serif;
+
+
+    
+  }
+  h1{
+    color: beige;
+  }
+  input{
+    width: 22rem;
+    margin: 1rem;
+    height: 2rem;
+    border-radius: .4rem;
+    padding: .5rem;
+  }
+  p{
+    color: beige;
+    font-size: 1.2rem;
+  }
+  button{
+    width: 6rem;
+    height: 2rem;
+    border: none;
+    font-size: 20px;
+    border-radius: .5px;
+  }
